@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julspitz
 - 👀 I’m interested in front end web development, graphic design, and mobile develoment.
-- 🌱 I’m currently learning Computer Information Systems at Bentley University.
+- 🌱 I graduated in May 2022 with a degree in Computer Information Systems at Bentley University.
 - 📫 How to reach me: julianaspitzner@gmail.com
 
 <!---
